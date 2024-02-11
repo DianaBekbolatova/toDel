@@ -1,0 +1,27 @@
+body{
+    background-color: pink;
+    text-align: center;
+}
+
+.all-block{
+    margin-top: 125px;
+}
+.all-text{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+}
+.all-btn{
+    color: white;
+    font-weight: bold;
+    padding: 9px;
+    background-color: plum;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.all-btn:hover{
+    box-shadow: 0 0 30px white;
+    padding: 8px;
+}
